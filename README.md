@@ -1,5 +1,5 @@
-# Diabetes Dataset Analysis
-This repository contains an analysis of a diabetes dataset using SQL. The dataset includes the following columns:
+# Diabetes Dataset Analysis Using SQL
+This repository contains SQL queries for practicing data analysis skills on a diabetes dataset. The dataset comprises the following columns:
 
 • Pregnancies: Number of times pregnant
 • Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
@@ -10,3 +10,8 @@ This repository contains an analysis of a diabetes dataset using SQL. The datase
 • DiabetesPedigreeFunction: Diabetes pedigree function
 • Age: Age in years
 • Outcome: Class variable (0 or 1) indicating whether the individual has diabetes or not
+
+
+# Objective:
+• Practice SQL skills by performing data analysis tasks on the diabetes dataset.
+• Explore SQL functionalities for data manipulation, aggregation.
